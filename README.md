@@ -1,4 +1,8 @@
 Hi, my name is Aslbek
+
+
+
+
 Role: Developer in training
 Goal: Learn how to use GitHub for version control
 
