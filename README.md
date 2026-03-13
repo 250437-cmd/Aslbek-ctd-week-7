@@ -1,1 +1,1 @@
-Salom, my name is Aslbek
+Hi, my name is Aslbek
